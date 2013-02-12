@@ -1,0 +1,32 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHTabBarControllerSharp", "MHTabBarControllerSharp\MHTabBarControllerSharp.csproj", "{6264010F-1213-48B5-8F6C-FE31C9115300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6264010F-1213-48B5-8F6C-FE31C9115300}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{6264010F-1213-48B5-8F6C-FE31C9115300}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{6264010F-1213-48B5-8F6C-FE31C9115300}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{6264010F-1213-48B5-8F6C-FE31C9115300}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{6264010F-1213-48B5-8F6C-FE31C9115300}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6264010F-1213-48B5-8F6C-FE31C9115300}.Debug|iPhone.Build.0 = Debug|iPhone
+		{6264010F-1213-48B5-8F6C-FE31C9115300}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6264010F-1213-48B5-8F6C-FE31C9115300}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6264010F-1213-48B5-8F6C-FE31C9115300}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6264010F-1213-48B5-8F6C-FE31C9115300}.Release|iPhone.Build.0 = Release|iPhone
+		{6264010F-1213-48B5-8F6C-FE31C9115300}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6264010F-1213-48B5-8F6C-FE31C9115300}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MHTabBarControllerSharp\MHTabBarControllerSharp.csproj
+	EndGlobalSection
+EndGlobal
